@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R + X type .
+chmod ugo+x type .
